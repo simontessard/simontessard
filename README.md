@@ -1,4 +1,4 @@
-<h1>👋 I'm Simon, Frontend Developer from France</h1>
+<h1>👋 I'm Simon, Developer from France</h1>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://simontessard.github.io/portfolio/)
